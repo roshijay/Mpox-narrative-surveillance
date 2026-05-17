@@ -6,7 +6,7 @@
 
 ## Overview
 
-This repository contains the code, labeled datasets, and full report for our Harvard Extension School Data Science Capstone project, completed in May 2026 in collaboration with the University of Montreal.
+This repository contains full report for our Harvard Extension School Data Science Capstone project, completed in May 2026 in collaboration with the University of Montreal.
 
 We developed and validated an automated multi-class narrative classification framework for monitoring Mpox-related public discourse on Meta (Facebook) and X (Twitter) — analyzing **600,000+ posts** spanning January 2022 through March 2026.
 
