@@ -2,11 +2,6 @@
 
 **Beyond Early Warning: A Validated Multi-class Classifier for Concurrent Mpox Narrative Surveillance on Social Media**
 
-![Harvard Extension School](https://img.shields.io/badge/Harvard-Extension%20School-A51C30?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed%20May%202026-02C39A?style=flat-square)
-
 ---
 
 ## Overview
@@ -148,16 +143,6 @@ The full capstone report is available in the `/report` directory.
 
 ---
 
-## Status
-
-| Component | Status |
-|-----------|--------|
-| Full Report | ✅ Complete |
-| Gold-Labeled Datasets | ✅ Available |
-| Weekly Signal Data | ✅ Available |
-| Annotation Pipeline Code | 🔄 Coming Soon |
-| Classifier Training Code | 🔄 Coming Soon |
-| Analysis Notebooks | 🔄 Coming Soon |
 
 *Code and notebooks are being finalized and will be added shortly.*
 
